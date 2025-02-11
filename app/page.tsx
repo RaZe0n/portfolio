@@ -12,7 +12,7 @@ import {
   Cpu,
   Globe,
   Mail,
-  Database,
+  Database, 
   Container,
   Cloud,
   Boxes,

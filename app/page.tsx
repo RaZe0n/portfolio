@@ -18,8 +18,6 @@ import {
   Boxes,
   ChevronRight
 } from "lucide-react";
-import { BackgroundBeamsWithCollision } from "@/components/ui/background-beams-with-collision";
-import { BackgroundVortex } from "@/components/ui/background-vortex";
 import Image from "next/image";
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
@@ -258,14 +256,14 @@ export default function Portfolio() {
         <p className="mt-2 flex items-center justify-center gap-2">
           Built with
           <span className="inline-flex items-center transition-transform hover:scale-110">
-            <svg viewBox="0 0 24 24" className="h-5 w-5 text-[#61DAFB]">
+            <svg viewBox="0 0 24 24" className="h-5 w-5 text-[#000000]">
               <path fill="currentColor" d="M12 13.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Z"/>
               <path fill="currentColor" d="M12 21.35c-1.3 0-2.557-.041-3.741-.124-1.104-.078-2.157-.207-3.127-.387a7.862 7.862 0 0 1-1.017-.27.644.644 0 0 1-.458-.57c-.037-.164.007-.331.123-.47.116-.14.29-.223.477-.231.187-.008.37.059.503.186.134.127.212.303.216.489 0 0 .017.127.178.233.195.129.577.27 1.182.403.891.196 2.052.353 3.441.457.03.002.06.002.089 0 2.72.201 5.45.201 8.17 0 .03.002.06.002.089 0 1.39-.104 2.55-.26 3.441-.457.605-.133.987-.274 1.182-.403.161-.106.178-.233.178-.233a.644.644 0 0 1 .216-.49c.134-.126.316-.193.503-.185.187.008.361.092.477.231.116.14.16.306.123.47a.644.644 0 0 1-.458.57c-.332.116-.67.208-1.017.27-.97.18-2.023.309-3.127.387-1.184.083-2.441.124-3.741.124Z"/>
               <path
                 fill="currentColor"
                 d="M12 21.35c-.905 0-1.795-.289-2.587-.953-.79-.663-1.466-1.71-2.004-3.02-.538-1.31-.914-2.87-1.119-4.589-.205-1.72-.23-3.578-.073-5.482.157-1.903.467-3.84.925-5.698.443-1.796.745-3.726.897-5.529.151-1.847.127-3.647.07-5.31.197-1.663.557-3.166 1.069-4.421.511-1.255 1.133-2.225 1.839-2.817.706-.592 1.444-.827 2.16.827.706.592 1.328 1.562 1.839 2.817.512 1.255.872 2.758 1.069 4.421.197 1.663.221 3.463.07 5.31-.152 1.846-.453 3.726-.897 5.529-.425 1.727-.975 3.384-1.645 4.857a2.074 2.074 0 0 0-.126.22.644.644 0 0 1 .275.87c.16.072.344.072.504 0 .16.073.28.208.33.375.688 1.541 1.26 3.265 1.702 5.061.458 1.858.768 3.795.925 5.698.157 1.904.132 3.762-.073 5.482-.205 1.719-.581 3.279-1.119 4.589-.538 1.31-1.214 2.357-2.004 3.02-.792.664-1.682.953-2.587.953Z"/>
             </svg>
-            <span className="ml-1 font-medium text-[#61DAFB]">React</span>
+            <span className="ml-1 font-medium text-[#000000]">React</span>
           </span>
           &
           <span className="inline-flex items-center transition-transform hover:scale-110">

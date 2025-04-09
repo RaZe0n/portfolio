@@ -104,10 +104,10 @@ export default function Portfolio() {
           Student at Bit Academy, passionate about web development and design.  
         </p>
         <div className="flex gap-4">
-          <SocialLink href="https://github.com" icon={<Github size={20} />} label="GitHub" />
+          <SocialLink href="https://github.com/RaZe0n" icon={<Github size={20} />} label="GitHub" />
           <SocialLink href="https://twitter.com" icon={<Twitter size={20} />} label="Twitter" />
-          <SocialLink href="https://linkedin.com" icon={<Linkedin size={20} />} label="LinkedIn" />
-          <SocialLink href="mailto:hello@example.com" icon={<Mail size={20} />} label="Email" />
+          <SocialLink href="https://www.linkedin.com/in/finn-bruinzeel-9b54aa206/" icon={<Linkedin size={20} />} label="LinkedIn" />
+          <SocialLink href="mailto:finn.bruinzeel@gmail.com" icon={<Mail size={20} />} label="Email" />
         </div>
       </section>
 
@@ -220,18 +220,18 @@ export default function Portfolio() {
               lightText={true}
             />
             <p className="mb-8 text-lg text-zinc-300">
-              Text
+              Contact me for more information
             </p>
             <div className="flex flex-col gap-6 md:flex-row">
               <Link
-                href="mailto:hello@example.com"
+                href="mailto:finn.bruinzeel@gmail.com"
                 className="inline-flex items-center justify-center gap-2 rounded-xl bg-white px-6 py-3 text-sm font-medium text-zinc-900 shadow-lg transition-all hover:-translate-y-1 hover:shadow-xl"
               >
                 <Mail size={18} />
-                hello@example.com
+                finn.bruinzeel@gmail.com
               </Link>
               <Link
-                href="/resume.pdf"
+                href="/Cv Finn Bruinzeel 2.pdf"
                 className="inline-flex items-center justify-center gap-2 rounded-xl bg-zinc-800 px-6 py-3 text-sm font-medium text-white shadow-lg transition-all hover:-translate-y-1 hover:shadow-xl"
               >
                 Download Resume
@@ -525,37 +525,6 @@ const skillsWithIcons = [
     )
   },
   {
-    name: "Python",
-    proficiency: 70,
-    icon: (
-      <svg viewBox="0 0 24 24" className="h-5 w-5">
-        <path
-          fill="#3776AB"
-          d="M11.751,0c-0.975,0.002-1.916,0.089-2.741,0.235l-0.002,0.002C6.927,0.647,6.208,1.547,6.208,2.936v1.873h5.818v0.624H6.208H4.271c-1.397,0-2.619,0.825-3.002,2.4c-0.44,1.798-0.459,2.918,0,4.798c0.34,1.394,1.154,2.4,2.551,2.4h1.652v-2.164c0-1.563,1.379-2.939,3.002-2.939h5.816c1.336,0,2.408-1.085,2.408-2.408V2.936c0-1.284-1.106-2.249-2.408-2.465C13.335,0.276,12.727,0.002,11.751,0zM15.209,17.001c0.601,0,1.088,0.488,1.088,1.086c0,0.601-0.488,1.088-1.088,1.088c-0.599,0-1.086-0.488-1.086-1.088C14.123,17.488,14.61,17.001,15.209,17.001z"
-        />
-        <path
-          fill="#FFC331"
-          d="M17.618,5.433v2.164c0,1.576-1.365,2.939-3.002,2.939H8.801c-1.315,0-2.408,1.116-2.408,2.408v4.51c0,1.284,1.129,2.041,2.408,2.408c1.533,0,3.002,0.519,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624C16.337,13.382,14.976,12,12.001,12zM15.209,17.001c0.601,0,1.088,0.488,1.088,1.086c0,0.601-0.488,1.088-1.088,1.088c-0.599,0-1.086-0.488-1.086-1.088C14.123,17.488,14.61,17.001,15.209,17.001z"
-        />
-      </svg>
-    )
-  },
-  {
-    name: "PostgreSQL",
-    proficiency: 75,
-    icon: <Database className="h-5 w-5 text-blue-500" />
-  },
-  {
-    name: "Docker",
-    proficiency: 65,
-    icon: <Container className="h-5 w-5 text-blue-500" />
-  },
-  {
-    name: "AWS",
-    proficiency: 60,
-    icon: <Cloud className="h-5 w-5 text-orange-500" />
-  },
-  {
     name: "Laravel",
     proficiency: 60,
     icon: <Cloud className="h-5 w-5 text-orange-500" />
@@ -578,55 +547,22 @@ const skillsWithIcons = [
     )
   },
   {
-    name: "GraphQL",
+    name: "Git",
     proficiency: 70,
     icon: (
-      <svg viewBox="0 0 24 24" className="h-5 w-5 text-[#E10098]">
-        <path
-          fill="currentColor"
-          d="M12,1.3l-1.4,0.8L3.8,6.9L2.4,7.7v8.6l1.4,0.8l6.8,4l1.4,0.8l1.4-0.8l6.8-4l1.4-0.8V7.7l-1.4-0.8L13.4,2.1L12,1.3z M12,3.1 l6,3.5v6.8l-6,3.5l-6-3.5v-6.8L12,3.1z"
-        />
-        <circle fill="currentColor" cx="12" cy="2.5" r="1.5"/>
-        <circle fill="currentColor" cx="12" cy="21.5" r="1.5"/>
-        <circle fill="currentColor" cx="21.5" cy="12" r="1.5"/>
-        <circle fill="currentColor" cx="2.5" cy="12" r="1.5"/>
-        <circle fill="currentColor" cx="18.5" cy="18.5" r="1.5"/>
-        <circle fill="currentColor" cx="5.5" cy="5.5" r="1.5"/>
-        <circle fill="currentColor" cx="18.5" cy="5.5" r="1.5"/>
-        <circle fill="currentColor" cx="5.5" cy="18.5" r="1.5"/>
+      <svg aria-hidden="true" height="24" version="1.1" viewBox="0 0 16 16" width="24">
+        <path fillRule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
       </svg>
     )
   }
 ];
 
 const SkillBar = ({ skill }: { skill: typeof skillsWithIcons[0] }) => {
-  const { ref, inView } = useInView({
-    triggerOnce: true,
-    threshold: 0.2,
-  });
-
   return (
-    <div
-      ref={ref}
-      className="flex flex-col gap-2 rounded-xl border border-zinc-200 bg-white p-4 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md dark:border-zinc-800 dark:bg-zinc-800/50"
-    >
-      <div className="flex items-center gap-3">
-        {skill.icon}
-        <span className="text-sm text-zinc-600 dark:text-zinc-400">
-          {skill.name}
-        </span>
-      </div>
-      <div className="h-2 w-full overflow-hidden rounded-full bg-zinc-100 dark:bg-zinc-700">
-        <div 
-          className={cn(
-            "h-full rounded-full bg-emerald-500 transition-all duration-1000",
-            inView ? "animate-slide-width" : "w-0"
-          )}
-          style={{ '--width': `${skill.proficiency}%` } as React.CSSProperties}
-        />
-      </div>
-      <span className="text-xs text-zinc-500 dark:text-zinc-500">
-        {skill.proficiency}%
+    <div className="flex items-center gap-3 rounded-xl border border-zinc-200 bg-white p-4 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md dark:border-zinc-800 dark:bg-zinc-800/50">
+      {skill.icon}
+      <span className="text-sm text-zinc-600 dark:text-zinc-400">
+        {skill.name}
       </span>
     </div>
   );

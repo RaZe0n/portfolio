@@ -438,7 +438,7 @@ const projects = [
     period: "Oct 2024 - Present",
     description: "Landing page for a social development goals wewbiste, including user interfaces and a dashboard for the admin",
     tags: ["Laravel", "Blade", "JavaScript", "Tailwind CSS"],
-    link: "https://github.com/AniekHulshof/sdg-plein17",
+    link: "https://github.com/RaZe0n/SDG-Plein17",
     image: "/img/image.png"
   },
   {
@@ -446,7 +446,7 @@ const projects = [
     period: "Oct 2024 - Present",
     description: "PMOT",
     tags: ["Laravel", "Blade", "JavaScript", "Tailwind CSS"],
-    link: "https://github.com/AniekHulshof/sdg-plein17",
+    link: "https://github.com/RaZe0n/pmot-deepdive",
     image: "/img/pmot.png"
   },
   {
@@ -454,7 +454,7 @@ const projects = [
     period: "Oct 2024 - Present",
     description: "Landing page for a social development goals wewbiste, including user interfaces and a dashboard for the admin",
     tags: ["Laravel", "Blade", "JavaScript", "Tailwind CSS"],
-    link: "https://github.com/AniekHulshof/sdg-plein17",
+    link: "https://github.com/RaZe0n/SDG-Plein17",
     image: "/img/image.png"
   },
 ];

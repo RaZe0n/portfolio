@@ -3,24 +3,24 @@
 Welkom bij mijn portfolio website! Dit project is gebouwd met **Next.js** en **React**. Het doel was om een **strakke, moderne en responsieve** website te maken waarmee ik mezelf en mijn werk kan presenteren. Het is mijn **eerste ervaring met Next.js**, en ik heb veel geleerd over component-based development, routing, en het optimaliseren van performance in webapplicaties.
 
 ## 🚀 Live Demo
-[Bekijk hier de live versie](https://jouwportfolio-link.vercel.app)  
-*(Pas deze link aan naar jouw Vercel, Netlify of andere deployment link)*
+[Bekijk hier de live versie](https://www.fmbruinzeel.nl/)  
 
 ---
 
 ## 📄 Inhoud van de Website
 
 ### 🧍‍♂️ Over Mij
-Een korte introductie over wie ik ben, wat mij motiveert als developer, en waar ik naartoe wil groeien. Hier vertel ik onder andere over mijn achtergrond, passie voor technologie, en mijn leerproces als student en software ontwikkelaar.
+Een korte introductie over wie ik ben, wat mij motiveert als developer, en waar ik naartoe wil groeien. 
 
 ### 💼 Ervaring
-Een overzicht van mijn relevante ervaring, stages, en projecten waar ik aan heb meegewerkt. Dit gedeelte laat zien waar ik mijn skills in de praktijk heb toegepast.
+Een overzicht van mijn relevante ervaring en projecten waar ik aan heb meegewerkt. Dit gedeelte laat zien waar ik mijn skills in de praktijk heb toegepast.
 
 ### 🛠️ Skills
 Een opsomming van de technologieën en tools waar ik mee heb gewerkt, zoals:
 - JavaScript / TypeScript
 - React
 - Next.js
+- Laravel
 - Git & GitHub
 - HTML & CSS (TailwindCSS)
 - en meer...
@@ -52,7 +52,7 @@ Dit project was mijn eerste kennismaking met Next.js, en het heeft me geholpen o
 
 ## 📫 Contact
 
-Wil je meer weten of samenwerken? Neem gerust contact met me op via [LinkedIn](https://linkedin.com/in/jouwprofiel) of stuur een bericht via mijn contactformulier op de site!
+Wil je meer weten? Neem gerust contact met me op via [LinkedIn](https://www.linkedin.com/in/finn-bruinzeel-9b54aa206/) of stuur een bericht via mijn contactformulier op de site!
 
 ---
 

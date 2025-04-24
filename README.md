@@ -44,13 +44,13 @@ Een selectie van mijn persoonlijke projecten. Elk project wordt kort toegelicht,
 
 Bij het ontwikkelen van mijn portfolio heb ik ook veel aandacht besteed aan **kwaliteit en performance**. Dit heb ik onder andere getest met **Google Lighthouse**.
 
-📈 Mijn scores op Lighthouse:
+📈 De scores op Lighthouse: (Desktop)
 - **Performance**: 100
 - **Accessibility**: 100
-- **Best Practices**: 100
+- **Best Practices**: 96
 - **SEO**: 100
 
-➡️ Je hoeft me niet op m’n woord te geloven — je kunt dit zelf testen! Open de website in Google Chrome, klik rechts op de pagina en selecteer *Inspecteren > Lighthouse* en genereer je eigen rapport. Feedback is welkom 💬
+➡️ Je hoeft me niet op m’n woord te geloven — je kunt dit zelf testen! Open de website in Google Chrome, klik rechts op de pagina en selecteer *Inspecteren > Lighthouse* en genereer je eigen rapport. 
 
 ---
 

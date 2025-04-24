@@ -1,8 +1,8 @@
 # 🧑‍💻 Mijn Portfolio Website
 
-Welkom bij mijn portfolio website! Dit project is gebouwd met **Next.js** en **React**. Het doel was om een **strakke, moderne en responsieve** website te maken waarmee ik mezelf en mijn werk kan presenteren. Het is mijn **eerste ervaring met Next.js**, en ik heb veel geleerd over component-based development, routing, en het optimaliseren van performance in webapplicaties.
+Welkom bij mijn portfolio website! Dit project is gebouwd met **Next.js** en **React**. Het doel was om een **strakke, moderne en responsive** website te maken waarmee ik mezelf en mijn werk kan presenteren. Het is mijn **eerste ervaring met Next.js**, en ik heb veel geleerd over component-based development, routing, en het optimaliseren van performance in webapplicaties. Zo heb ik mijn focus ook neergelegd bij testing. 
 
-## 🚀 Live Demo
+## 🚀 Live Versie
 [Bekijk hier de live versie](https://www.fmbruinzeel.nl/)  
 
 ---
@@ -40,6 +40,20 @@ Een selectie van mijn persoonlijke projecten. Elk project wordt kort toegelicht,
 
 ---
 
+## 🧪 Testing & Lighthouse
+
+Bij het ontwikkelen van mijn portfolio heb ik ook veel aandacht besteed aan **kwaliteit en performance**. Dit heb ik onder andere getest met **Google Lighthouse**.
+
+📈 Mijn scores op Lighthouse:
+- **Performance**: 100
+- **Accessibility**: 100
+- **Best Practices**: 100
+- **SEO**: 100
+
+➡️ Je hoeft me niet op m’n woord te geloven — je kunt dit zelf testen! Open de website in Google Chrome, klik rechts op de pagina en selecteer *Inspecteren > Lighthouse* en genereer je eigen rapport. Feedback is welkom 💬
+
+---
+
 ## 📌 Wat ik heb geleerd
 
 Dit project was mijn eerste kennismaking met Next.js, en het heeft me geholpen om:
@@ -47,6 +61,7 @@ Dit project was mijn eerste kennismaking met Next.js, en het heeft me geholpen o
 - Betere structuur aan te brengen in mijn React-projecten
 - Te werken met routing en dynamic pages
 - Performance en toegankelijkheid in het oog te houden
+- Te testen op kwaliteit met tools zoals Lighthouse
 
 ---
 

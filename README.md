@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧑‍💻 Mijn Portfolio Website
 
-## Getting Started
+Welkom bij mijn portfolio website! Dit project is gebouwd met **Next.js** en **React**. Het doel was om een **strakke, moderne en responsieve** website te maken waarmee ik mezelf en mijn werk kan presenteren. Het is mijn **eerste ervaring met Next.js**, en ik heb veel geleerd over component-based development, routing, en het optimaliseren van performance in webapplicaties.
 
-First, run the development server:
+## 🚀 Live Demo
+[Bekijk hier de live versie](https://jouwportfolio-link.vercel.app)  
+*(Pas deze link aan naar jouw Vercel, Netlify of andere deployment link)*
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📄 Inhoud van de Website
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🧍‍♂️ Over Mij
+Een korte introductie over wie ik ben, wat mij motiveert als developer, en waar ik naartoe wil groeien. Hier vertel ik onder andere over mijn achtergrond, passie voor technologie, en mijn leerproces als student en software ontwikkelaar.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 💼 Ervaring
+Een overzicht van mijn relevante ervaring, stages, en projecten waar ik aan heb meegewerkt. Dit gedeelte laat zien waar ik mijn skills in de praktijk heb toegepast.
 
-## Learn More
+### 🛠️ Skills
+Een opsomming van de technologieën en tools waar ik mee heb gewerkt, zoals:
+- JavaScript / TypeScript
+- React
+- Next.js
+- Git & GitHub
+- HTML & CSS (TailwindCSS)
+- en meer...
 
-To learn more about Next.js, take a look at the following resources:
+### 📁 Projecten
+Een selectie van mijn persoonlijke projecten. Elk project wordt kort toegelicht, inclusief gebruikte technologieën en een link naar de live demo of repository. Denk aan webapps, tools, of andere creatieve toepassingen.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ⚙️ Gebruikte Technologieën
 
-## Deploy on Vercel
+- **Next.js** – voor server-side rendering en routing
+- **React** – component-based UI development
+- **TailwindCSS** – voor snelle en consistente styling
+- **Vercel** – voor hosting en deployment
+- **Git/GitHub** – versiebeheer en samenwerking
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📌 Wat ik heb geleerd
+
+Dit project was mijn eerste kennismaking met Next.js, en het heeft me geholpen om:
+- Te begrijpen hoe server-side rendering werkt in moderne webapplicaties
+- Betere structuur aan te brengen in mijn React-projecten
+- Te werken met routing en dynamic pages
+- Performance en toegankelijkheid in het oog te houden
+
+---
+
+## 📫 Contact
+
+Wil je meer weten of samenwerken? Neem gerust contact met me op via [LinkedIn](https://linkedin.com/in/jouwprofiel) of stuur een bericht via mijn contactformulier op de site!
+
+---
+
+Dankjewel voor het bezoeken van mijn portfolio 🙌  
+Feedback of suggesties zijn altijd welkom!

@@ -436,7 +436,7 @@ const projects = [
   {
     title: "SDG House Plein 17",
     period: "Oct 2024 - Present",
-    description: "Landing page for a social development goals wewbiste, including user interfaces and a dashboard for the admin",
+    description: "Landing page for a social development goals website, including user interfaces and a dashboard for the admin",
     tags: ["Laravel", "Blade", "JavaScript", "Tailwind CSS"],
     link: "https://github.com/RaZe0n/SDG-Plein17",
     image: "/img/image.png"
@@ -448,14 +448,6 @@ const projects = [
     tags: ["Laravel", "Blade", "JavaScript", "Tailwind CSS"],
     link: "https://github.com/RaZe0n/pmot-deepdive",
     image: "/img/pmot.png"
-  },
-  {
-    title: "SDG House Plein 17",
-    period: "Oct 2024 - Present",
-    description: "Landing page for a social development goals wewbiste, including user interfaces and a dashboard for the admin",
-    tags: ["Laravel", "Blade", "JavaScript", "Tailwind CSS"],
-    link: "https://github.com/RaZe0n/SDG-Plein17",
-    image: "/img/image.png"
   },
 ];
 
